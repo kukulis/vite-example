@@ -36,7 +36,7 @@ services:
         links:
             - app:php_fpm
         ports:
-            - "8089:80"
+            - "8181:80"
         environment:
             - BASEDIR=/var/www/html
 
