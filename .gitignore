@@ -31,4 +31,9 @@ dist-ssr
 *.sln
 *.sw?
 
+app/assets
+app/index.html
+app/vite.svg
+
+
 
