@@ -35,5 +35,7 @@ app/assets
 app/index.html
 app/vite.svg
 
+.viminfo
+
 
 
